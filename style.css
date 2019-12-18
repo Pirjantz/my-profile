@@ -1,0 +1,95 @@
+
+body {
+    display: block;
+    margin: 8px;
+    background-color: #75dcea  ;
+    font-family: helvetica;
+    font-size: 17px;
+}
+
+      /* Blocks */
+.paragraphe{
+    color: #D62828 ;
+    background-color:  #FBD1A2 ;
+    padding: 25px;
+    border-radius: 4px;
+    margin: 15px 0px;
+    text-align: center;
+}
+
+div {
+    display: block;
+}
+
+.container {
+    width: 700px;
+    margin: 30px auto;
+}
+
+
+
+
+      /*Caracteres*/
+p
+{
+ 
+ color: #003049;                     /*couleur du texte en general*/
+ 
+ }
+
+
+h1 {
+  color:#003049  ;
+  font-size: 32px;
+ /*  border: 10px #FF928B outset; */
+}
+
+h2 {
+ 
+ color: #D62828   ;
+ font-size: 24px;
+ font-weight: lighter;
+ 
+}
+
+.encadre{
+	border: 10px #FF6600 outset;
+}
+
+.buton{
+	color: #7DCFB6  ;
+	background-color: #003049;
+    padding: 15px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+#reseaux{
+     display:flex;
+justify-content: space-between;
+     
+}
+
+
+
+a{
+	font-style: normal;
+}
+ul{
+	color: #00B2CA;
+	list-style: none;
+}
+
+
+
+h1,h2,h3 {
+ font-family: Courier;
+}
+
+/*
+#00B2CA    bleu turquoise 
+#7DCFB6    vert turquoise
+#FBD1A2    sable
+#FF928B    tulipe
+#F79256    orange
+ */
